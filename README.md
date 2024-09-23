@@ -95,7 +95,9 @@ sólo consúltalo conmigo antes de tomar la decisión):
 3.  Redacta un miniensayo, basándote en la plantilla
     `manuscrito-geomorfometria-municipio-rd.Rmd` que se encuentra en
     este mismo repositorio. Para hacerlo, deberás clonar este
-    repositorio, muy parecido a como hiciste con la PD01. Deberás usar
+    repositorio, muy parecido a como hiciste con la PD01 (ver al [portal
+    de la asignatura](https://github.com/geomorfologia-202402), haz clic
+    en el enlace de la PD02 y acepta la asignación). Deberás usar
     estilos de formato (los títulos debidamente escritos, el texto
     normal también, siguiendo lo aprendido en la PD01), referencias
     bibliográficas, referencias cruzadas a figuras y tablas (es decir,
