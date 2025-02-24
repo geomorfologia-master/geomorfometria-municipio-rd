@@ -1,10 +1,10 @@
 Práctica de desarrollo 2. PD02. Geomorfometría, reproducibilidad,
 redacción, estilos de formato, figuras, tablas, citas y
 referencias<small><br>Geomorfología (GEO-114)<br>Universidad Autónoma de
-Santo Domingo (UASD)<br>Semestre 2024-02</small>
+Santo Domingo (UASD)<br>Semestre 2025-01</small>
 ================
 El Tali
-2024-09-23
+2025-02-24
 
 <!-- README.md se genera a partir de README.Rmd. Por favor, edita ese archivo. -->
 
@@ -13,7 +13,8 @@ Versión HTML (quizá más legible),
 
 # Fecha/hora de entrega
 
-**30 de septiembre de 2024, 11:59 pm.**
+[**VER PORTAL DE LA
+ASIGNATURA**](https://github.com/geomorfologia-202501)
 
 # Objetivos
 
